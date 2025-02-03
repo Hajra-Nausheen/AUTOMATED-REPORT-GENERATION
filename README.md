@@ -40,7 +40,9 @@ Objectives:
 
 The Automated Report Generation system is a powerful solution for organizations that rely on data-driven decision-making. By automating the entire reporting process, it reduces manual effort, enhances accuracy, and improves efficiency. With support for multiple data sources and output formats, this tool is highly flexible and customizable. Whether for business intelligence, financial reporting, or operational tracking, this system ensures that reports are generated and delivered seamlessly, saving time and improving productivity.
 
+# OUTPUT
 
+[Report 1.xlsx](https://github.com/user-attachments/files/18640730/Report.1.xlsx)
 
 
 
